@@ -110,11 +110,15 @@ pip install -r requirements.txt
 
 ```
 ### 4. Run Forecast Pipeline
-Run the following to evaluate all models and generate plots:
+Use the `pipeline.py` script to run model evaluations and generate forecast plots in one step:
 ```
-python evaluation/evaluate_models.py
-python evaluation/plot_models.py
+python pipeline.py
 ```
+This will sequentially:
+
+- Run all forecasting models (`evaluate_models.py`)
+
+- Generate all forecast graphs (`plot_models.py`)
 
 ### 5. Launch Streamlit App
 ```
