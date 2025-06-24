@@ -88,7 +88,7 @@ Time_Series_Forecasting/
 ```
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 Follow these steps to set up the project environment from scratch using **Conda**:
 
@@ -118,7 +118,7 @@ python evaluation/plot_models.py
 
 ### 5. Launch Streamlit App
 ```
-streamlit run app/streamlit_app.py
+streamlit run streamlit_app.py
 
 ```
 ### 6. Upload Your Stock CSV
