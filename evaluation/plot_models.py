@@ -17,7 +17,7 @@ def plot_forecast(actual, predicted, title, filename):
     output_path = os.path.join("outputs", "plots", filename)
     plt.savefig(output_path)
     plt.close()
-    print(f"✅ Plot saved: {output_path}")
+    print(f"Plot saved: {output_path}")
 
 def main():
     # Ensure output folders exist
@@ -47,7 +47,7 @@ def main():
             plot_forecast(actual, forecast_series, f"{name} Forecast vs Actual", f"{name.lower()}_forecast.png")
 
         except Exception as e:
-            print(f"❌ Failed to plot {name}: {e}")
+            print(f"Failed to plot {name}: {e}")
 
 def generate_plots_from_forecasts():
     import pandas as pd

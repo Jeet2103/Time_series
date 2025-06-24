@@ -33,7 +33,7 @@ def preprocess_yahoo_data(input_path="data/yahoo_data.csv", output_path="data/cl
 
     # Save cleaned data
     df.to_csv(output_path)
-    print(f"✅ Cleaned data saved to: {output_path}")
+    print(f"Cleaned data saved to: {output_path}")
 
 if __name__ == "__main__":
     preprocess_yahoo_data()
