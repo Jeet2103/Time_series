@@ -95,8 +95,8 @@ Follow these steps to set up the project environment from scratch using **Conda*
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/yourusername/stock-time-series-forecasting.git
-cd stock-time-series-forecasting
+git clone https://github.com/Jeet2103/Time_series.git
+cd Time_series
 ```
 ### 2. Create a Virtual Environment with Conda
 ```
