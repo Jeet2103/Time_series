@@ -8,10 +8,10 @@
 3. [Approach & Methodology](#approach--methodology)
 4. [Models Used](#models-used)
 5. [Evaluation Metrics](#evaluation-metrics)
-6. [Results](#results)
-7. [Visualizations](#visualizations)
-8. [Conclusion](#conclusion)
-9. [Future Work](#future-work)
+6. [Visualizations](#visualizations)
+7. [Conclusion](#conclusion)
+8. [Future Work](#future-work)
+9. [Appendix](#Appendix)
 
 ---
 
@@ -31,7 +31,7 @@ Time series forecasting is crucial in financial markets, where investors seek pr
 
 ---
 
-## ⚙️ Approach & Methodology
+## Approach & Methodology
 
 The project is divided into the following stages:
 
