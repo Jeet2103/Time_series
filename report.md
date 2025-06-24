@@ -111,9 +111,6 @@ Metrics are calculated on the final 30-day test set.
 Based on RMSE:
 
 > **LSTM** with **RMSE = 336.0121428**
-
-Update this with the best model name and score from the metrics table.
-
 ---
 ## Streamlit Interface Preview
 
