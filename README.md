@@ -151,4 +151,4 @@ For an in-depth explanation of the project including:
 
 - Final conclusion and future work
 
-Please see `report.md` for the complete project report.
+Please see [`report.md`](./report.md) for the complete project report.
