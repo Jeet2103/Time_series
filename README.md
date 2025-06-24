@@ -132,3 +132,19 @@ The app will generate:
 - `MAE`, `MSE`, `RMSE` scores
 
 - Best model based on `RMSE`
+
+---
+## Full Project Report
+For an in-depth explanation of the project including:
+
+- Introduction & goals
+
+- Step-by-step methodology
+
+- Evaluation metrics
+
+- Forecast graphs
+
+- Final conclusion and future work
+
+Please see `report.md` for the complete project report.
