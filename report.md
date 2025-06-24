@@ -1,4 +1,4 @@
-# Stock Market Time Series Forecasting Report
+# 📝 Project Report: Stock Market Time Series Forecasting
 
 ---
 
